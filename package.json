@@ -1,0 +1,39 @@
+{
+    "name": "demo-tap-v2",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@tap-payments/js-connect": "0.0.1-beta.32",
+      "react": "^16.8.6",
+      "react-dom": "^16.8.6",
+      "react-scripts": "^3.4.1"
+    },
+    "devDependencies": {
+      "prettier": "^1.18.2",
+      "tailwindcss": "^1.1.4"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "CI=false react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "tailwind": "tailwind build tailwind.css -c tailwind.config.js -o public/tailwind.css",
+      "format": "prettier --write \"src/**/*.js\""
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+  
