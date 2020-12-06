@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import { TapAuthButton, DialogMode,PageMode,AnimationType} from '@tap-payments/js-connect/build/js/Connect'
+import { TapAuthButton, DialogMode,PageMode,AnimationType} from '@tap-payments/js-connect'
 import './App.css';
 
 function App() {

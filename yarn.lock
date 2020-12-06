@@ -1550,10 +1550,10 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
-"@tap-payments/js-connect@0.0.1-beta.32":
-  version "0.0.1-beta.32"
-  resolved "https://registry.yarnpkg.com/@tap-payments/js-connect/-/js-connect-0.0.1-beta.32.tgz#dd345d3dd3b8002d41a6fc64b819ca3c20225b41"
-  integrity sha512-0qgqQQK/iqxqGaeqTcx2xxtdMZGWlOceaD2rF4fVE32uJbxQ0PrRe10pEP2pjxcOQwI29pjdtAtYNX3F0c/wmw==
+"@tap-payments/js-connect@0.0.1-beta.35":
+  version "0.0.1-beta.35"
+  resolved "https://registry.yarnpkg.com/@tap-payments/js-connect/-/js-connect-0.0.1-beta.35.tgz#a09514138f84795f9158bb9ddfa726c3256c9477"
+  integrity sha512-8BAMSLQdpscPOon9zadTr2GRT6GXLhq2M/vBBfIwB/aqbtZ8ECVbCLkleyuJvVlQ60beVTNZ8JzGwyzX2Euczg==
   dependencies:
     "@babel/polyfill" "^7.10.1"
     "@material-ui/core" "^4.9.9"
